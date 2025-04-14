@@ -16,12 +16,6 @@ Flip the cards, find the matching emoji pairs, and beat your best time and score
 
 ---
 
-## 📸 Preview
-
-![Game Preview](preview.png) <!-- Optional: Add your own screenshot -->
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML5**
