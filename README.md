@@ -59,5 +59,5 @@ memory-match-game/
 ### 1. Clone this repository
 
 ```bash
-git clone https://github.com/your-username/memory-match-game.git
+git clone https://github.com/AmruthaR200/memory_game.git
 cd memory-match-game
